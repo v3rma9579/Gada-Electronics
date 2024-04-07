@@ -1,0 +1,13 @@
+.card {
+    margin-right: 30px;
+}
+
+.card-img-top {
+    height: min-content;
+    margin-top: 20px;
+    display: flex;
+    padding: 20px;
+    margin-top: 0;
+    justify-content: center;
+}
+
